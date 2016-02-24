@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>/user/list.jsp</h2>
+<h2>/user/add.jsp</h2>
 </body>
 </html>
