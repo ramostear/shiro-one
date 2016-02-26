@@ -15,6 +15,5 @@
 		<input type="submit" value="login">
 	</form>
 	<hr>
-	<a href="http://www.ramostear.com" target="_black" style="margin:10px quto;text-decoration: none;color:gray;">www.ramostear.com</a>
 </body>
 </html>

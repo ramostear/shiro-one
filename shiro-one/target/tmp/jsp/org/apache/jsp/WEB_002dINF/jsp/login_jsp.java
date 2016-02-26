@@ -59,6 +59,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t<input type=\"submit\" value=\"login\">\r\n");
       out.write("\t</form>\r\n");
       out.write("\t<hr>\r\n");
+      out.write("\t<a href=\"http://www.ramostear.com\" target=\"_black\" style=\"margin:10px quto;text-decoration: none;color:gray;\">www.ramostear.com</a>\r\n");
       out.write("</body>\r\n");
       out.write("</html>");
     } catch (Throwable t) {
